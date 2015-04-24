@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Whats Hot</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_peppas">Peppa\'s Pizza</string>
+    <string name="test_coupon">25% Off Large Pizza</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_trending">Trending</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_settings">Settings</string>
+</resources>
